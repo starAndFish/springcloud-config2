@@ -1,3 +1,2 @@
-dev test111111
-22222222222
-3333333333333
+config:
+  info: "main branch,springcloud-config/config-dev.yml version=1"
